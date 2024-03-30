@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌐 Social media and project links: [https://daniel-wai.github.io/](https://daniel-wai.github.io/)
+- ☕ Check out my latest project: [Coffee Brew Helper Application](https://github.com/daniel-wai/CoffeeBrewHelperWeb.git)
 
 <!--
 **daniel-wai/daniel-wai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
